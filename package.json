@@ -1,0 +1,22 @@
+{
+  "name": "apisureguaranteesample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Surecomp/APISureGuaranteeSample.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Surecomp/APISureGuaranteeSample/issues"
+  },
+  "homepage": "https://github.com/Surecomp/APISureGuaranteeSample#readme",
+  "devDependencies": {
+    "request": "^2.88.2"
+  }
+}
